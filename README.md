@@ -1,4 +1,4 @@
-<img src="cover.png" alt="cover pic" height="300" width="100%"/>
+<img src="cover.png" alt="cover pic" height="260" width="100%"/>
 Hi 👋 My name is Suman Giri </br>
 ===========================
 

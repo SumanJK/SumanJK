@@ -4,7 +4,7 @@ Hi 👋 My name is Suman Giri </br>
 
 Full-Stack Web Developer
 ------------------------
-<img align="right" alt="GIF" src="rec.gif" width="550" height="220" />
+<img align="right" alt="GIF" src="rec.gif" width="500" height="200" />
 An aspiring Full-Stack Web Developer, who can't help himself from falling in love with coding. </br>
 
 * 🌍  I'm based in Odisha, India

@@ -40,6 +40,8 @@ An aspiring Full-Stack Web Developer, who can't help himself from falling in lov
 
 <p align="left"> <a href="https://discord.com/users/Jeki#4318" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/suman.giri.1023" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/suman_kumar_giri/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/suman-giri-/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://medium.com/@girisuman289" target="blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@girisuman289" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18978406/suman-giri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SumaN2point0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://www.github.com/SumanJK" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32"/></a></p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumanJK&theme=vue)
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -48,11 +50,15 @@ An aspiring Full-Stack Web Developer, who can't help himself from falling in lov
 
 <a href="http://www.github.com/SumanJK"><img src="https://activity-graph.herokuapp.com/graph?username=SumanJK&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/gs65vg6wu7ct2glmn4s3cycx9) </br>
  </br>
+ ### Random Coding Humor 😅
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=blueberry&qColor=%23944bcc&aColor=%23bbdb51) </br>
+
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 </br>
 </br>
-<a href="https://www.buymeacoffee.com/girisuman2M"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/girisuman2M"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> </br>
+  ![Snake animation](https://github.com/SumanJK/SumanJK/blob/output/github-contribution-grid-snake.svg)
+
 

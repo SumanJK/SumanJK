@@ -47,12 +47,5 @@ An aspiring Full-Stack Web Developer, who can't help himself from falling in lov
 
 <a href="http://www.github.com/SumanJK"><img src="https://activity-graph.herokuapp.com/graph?username=SumanJK&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/SumanJK/PluralSight_clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanJK&repo=PluralSight_clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SumanJK/cricbuzz-clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanJK&repo=cricbuzz-clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-
-<div width="100%" align="center"><a href="https://github.com/SumanJK/weather-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanJK&repo=weather-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SumanJK/movie-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanJK&repo=movie-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
 
 <a href="https://www.buymeacoffee.com/girisuman2M"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

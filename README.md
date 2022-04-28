@@ -1,3 +1,4 @@
+<img src="cover.png" alt="cover pic"/>
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Suman Giri</h1>
 <h3 align="center">An Aspiring Full-Stack Web Developer from India</h3>

@@ -12,7 +12,7 @@ An aspiring Full-Stack Web Developer, who can't help himself from falling in lov
 * 🚀  I'm currently working on [PluralSight](http://pluralsight-clone-1.netlify.app/)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Interesting Projects
-* ⚡  Can't help myself from falling for Physics 🤍
+* 💫   Physics Student 🤍
 
 ### Skills
 

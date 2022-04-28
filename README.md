@@ -59,6 +59,6 @@ An aspiring Full-Stack Web Developer, who can't help himself from falling in lov
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 </br>
 </br>
 <a href="https://www.buymeacoffee.com/girisuman2M"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> </br>
-  ![Snake animation](https://github.com/SumanJK/SumanJK/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/SumanJK/SumanJK/blob/output/github-contribution-grid-snake.svg) -->
 
 

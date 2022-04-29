@@ -1,4 +1,4 @@
-<img src="cover.png" alt="cover pic" height="260" width="100%"/> </br>
+<img src="cover.png" alt="cover pic" height="240" width="100%"/> </br>
 <!-- <img align="right" alt="GIF" src="rec.gif" width="100%" height="200" /> </br> -->
 
 
@@ -56,7 +56,7 @@ An aspiring Full-Stack Web Developer, who can't help himself from falling in lov
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SumanJK" ><img  src="https://github-readme-stats.vercel.app/api?username=SumanJK&show_icons=true&hide=&count_private=true&border_color=02D892&bg_color=0D1117&title_color=02D892&text_color=8B949E&icon_color=02D892&show_icons=true&ring=02D892" alt="SumanJK's GitHub stats" /></a> <a href="http://www.github.com/SumanJK"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SumanJK&background=1c1917&ring=02D892&fire=02D892&currStreakNum=ffffff&currStreakLabel=02D892&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&color=02D892&icon_color=02D892&border_color=02D892"  /></a>
+<a href="http://www.github.com/SumanJK" ><img width="40%" src="https://github-readme-stats.vercel.app/api?username=SumanJK&show_icons=true&hide=&count_private=true&border_color=02D892&bg_color=0D1117&title_color=02D892&text_color=8B949E&icon_color=02D892&show_icons=true&ring=02D892" alt="SumanJK's GitHub stats" /></a> <a href="http://www.github.com/SumanJK"><img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=SumanJK&background=1c1917&ring=02D892&fire=02D892&currStreakNum=ffffff&currStreakLabel=02D892&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&color=02D892&icon_color=02D892&border_color=02D892"  /></a>
 
 <a href="http://www.github.com/SumanJK"><img src="https://activity-graph.herokuapp.com/graph?username=SumanJK&border_color=02D892&bg_color=0D1117&title_color=02D892&text_color=02D892&icon_color=02D892&point=ffff&line=02D892&area_color=02D892&area=true&color=02D892&border_color=02D892&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 

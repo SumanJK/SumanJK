@@ -1,9 +1,11 @@
-<!-- <img src="cover.png" alt="cover pic" height="260" width="100%"/> </br> -->
-<img align="right" alt="GIF" src="rec.gif" width="100%" height="200" /> </br>
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Suman Giri </br>
+<img src="cover.png" alt="cover pic" height="260" width="100%"/> </br>
+<!-- <img align="right" alt="GIF" src="rec.gif" width="100%" height="200" /> </br> -->
 
+
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> My name is Suman Giri 
 <a href="https://www.youtube.com/watch?v=Hd_ptbiPoXM&t=300s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+# Profile Visits ![Visitor Count](https://profile-counter.glitch.me/{SumanJK}/count.svg) </br>
+------------------------
 Full-Stack Web Developer
 ------------------------
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="500" height="320" />

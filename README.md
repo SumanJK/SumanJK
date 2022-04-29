@@ -67,6 +67,7 @@ An aspiring Full-Stack Web Developer, who can't help himself from falling in lov
  </br>
  ### Random Coding Jokes 👻 </br>
  <a href="https://www.youtube.com/watch?v=cdZZpaB2kDM"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=blueberry&qColor=%23944bcc&aColor=%23bbdb51) </br>
 
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 </br>

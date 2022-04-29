@@ -1,27 +1,78 @@
-<img src="cover.png" alt="cover pic"/>
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Suman Giri</h1>
-<h3 align="center">An Aspiring Full-Stack Web Developer from India</h3>
+<img src="cover.png" alt="cover pic" height="240" width="100%"/> </br>
+<!-- <img align="right" alt="GIF" src="rec.gif" width="100%" height="200" /> </br> -->
 
-- 🔭 I’m currently working on [Pluralsight](pluralsight-cloned.netlify.app/)
 
-- 🌱 I’m currently learning **React**
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> My name is Suman Giri 
+<a href="https://www.youtube.com/watch?v=Hd_ptbiPoXM&t=300s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+# Profile Visits 🫶 ![Visitor Count](https://profile-counter.glitch.me/{SumanJK}/count.svg) </br>
 
-- 📝 I regularly write articles on [https://medium.com/@girisuman289](https://medium.com/@girisuman289)
+<!-- # ------------------------ -->
+Full-Stack Web Developer
+------------------------
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="500" height="320" />
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
- <img align="right" alt="GIF" src="rec.gif" width="500" height="320" />
-<h3 align="left">Connect with me:</h3>
+An aspiring Full-Stack Web Developer, who can't help himself from falling in love with coding. </br>
+
+* 🌍  I'm based in Odisha, India
+* ✉️  You can contact me at [girisuman289@gmail.com](mailto:girisuman289@gmail.com)
+* 🚀  I'm currently working on [PluralSight](http://pluralsight-clone-1.netlify.app/)
+* 👨‍💻  I'm learning React
+* 🤝  I'm open to collaborating on Interesting Projects
+* 💫  Physics + Coding = 🤍
+
+### Skills 🧠</br>
+
+
+
 <p align="left">
-<a href="https://linkedin.com/in/suman giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman giri" height="30" width="40" /></a>
-<a href="https://fb.com/suman giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suman giri" height="30" width="40" /></a>
-<a href="https://instagram.com/suman-kumar-giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suman-kumar-giri" height="30" width="40" /></a>
-<a href="https://medium.com/@suman giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@suman giri" height="30" width="40" /></a>
-</p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="36" height="36"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="36" height="36"/> </a>
+ <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="36" height="36"/></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Socials 🤝</br>
+
+
+
+<p align="left"> <a href="https://discord.com/users/Jeki#4318" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/suman.giri.1023" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/suman_kumar_giri/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/suman-giri-/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://medium.com/@girisuman289" target="blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@girisuman289" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18978406/suman-giri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SumaN2point0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://www.github.com/SumanJK" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32"/></a></p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumanJK&theme=vue)
+
+### Badges ⭐️ </br>
+<a href="https://www.youtube.com/watch?v=T8y5EXFMD4s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/SumanJK" ><img width="48%" src="https://github-readme-stats.vercel.app/api?username=SumanJK&show_icons=true&hide=&count_private=true&border_color=02D892&bg_color=0D1117&title_color=02D892&text_color=8B949E&icon_color=02D892&show_icons=true&ring=02D892" alt="SumanJK's GitHub stats" /></a> &nbsp; &nbsp; <a href="http://www.github.com/SumanJK"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SumanJK&background=1c1917&ring=02D892&fire=02D892&currStreakNum=ffffff&currStreakLabel=02D892&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&color=02D892&icon_color=02D892&border_color=02D892"  /></a>
+
+<a href="http://www.github.com/SumanJK"><img src="https://activity-graph.herokuapp.com/graph?username=SumanJK&border_color=02D892&bg_color=0D1117&title_color=02D892&text_color=02D892&icon_color=02D892&point=ffff&line=02D892&area_color=02D892&area=true&color=02D892&border_color=02D892&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  ![Snake animation](https://github.com/SumanJK/SumanJK/blob/output/github-contribution-grid-snake.svg)
+### Spotify Playing 🎧  </br>
+<a href="https://www.youtube.com/watch?v=nLnp0tpZ0ok"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/gs65vg6wu7ct2glmn4s3cycx9) </br>
+ </br>
+ ### Random Coding Jokes 👻 </br>
+ <a href="https://www.youtube.com/watch?v=cdZZpaB2kDM"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ 
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=blueberry&qColor=%23944bcc&aColor=%23bbdb51) </br>
+
+If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 </br>
+</br>
+<a href="https://www.buymeacoffee.com/girisuman2M"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> </br>
+
 
 

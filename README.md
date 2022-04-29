@@ -4,7 +4,8 @@
 
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> My name is Suman Giri 
 <a href="https://www.youtube.com/watch?v=Hd_ptbiPoXM&t=300s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-# Profile Visits ![Visitor Count](https://profile-counter.glitch.me/{SumanJK}/count.svg) </br>
+# Profile Visits  ![Visitor Count](https://profile-counter.glitch.me/{SumanJK}/count.svg) </br>
+
 ------------------------
 Full-Stack Web Developer
 ------------------------
@@ -48,9 +49,9 @@ An aspiring Full-Stack Web Developer, who can't help himself from falling in lov
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SumanJK" ><img  src="https://github-readme-stats.vercel.app/api?username=SumanJK&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SumanJK's GitHub stats" /></a> <a href="http://www.github.com/SumanJK"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SumanJK&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/SumanJK" ><img  src="https://github-readme-stats.vercel.app/api?username=SumanJK&show_icons=true&hide=&count_private=true&border_color=02D892&bg_color=0D1117&title_color=02D892&text_color=8B949E&icon_color=02D892&show_icons=true&ring=02D892" alt="SumanJK's GitHub stats" /></a> <a href="http://www.github.com/SumanJK"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SumanJK&background=1c1917&ring=02D892&fire=02D892&currStreakNum=ffffff&currStreakLabel=02D892&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&color=02D892&icon_color=02D892&border_color=02D892"  /></a>
 
-<a href="http://www.github.com/SumanJK"><img src="https://activity-graph.herokuapp.com/graph?username=SumanJK&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/SumanJK"><img src="https://activity-graph.herokuapp.com/graph?username=SumanJK&border_color=02D892&bg_color=0D1117&title_color=02D892&text_color=02D892&icon_color=02D892&point=ffff&line=02D892&area_color=02D892&area=true&color=02D892&border_color=02D892&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/gs65vg6wu7ct2glmn4s3cycx9) </br>

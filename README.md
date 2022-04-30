@@ -4,7 +4,7 @@
 
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> My name is Suman Giri
 Click these lines, you won't regret 👇
-<a href="https://www.youtube.com/watch?v=Hd_ptbiPoXM&t=300s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a target="_blank" href="https://www.youtube.com/watch?v=Hd_ptbiPoXM&t=300s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 # Profile Visits 🫶 ![Visitor Count](https://profile-counter.glitch.me/{SumanJK}/count.svg) </br>
 
 <!-- # ------------------------ -->

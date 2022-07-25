@@ -1,4 +1,4 @@
-<img src="sumanGit.gif" alt="cover pic" height="380" width="3000px"/> </br>
+<img src="sumanGit.gif" alt="cover pic" height="380" width="1000px"/> </br>
 <!-- <img align="right" alt="GIF" src="rec.gif" width="100%" height="200" /> </br> -->
 
 

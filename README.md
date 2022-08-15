@@ -1,5 +1,5 @@
-<img src="sumanGit.gif" alt="cover pic" height="380" width="100%"/> </br>
-<!-- <img align="right" alt="GIF" src="rec.gif" width="100%" height="200" /> </br> -->
+<img src="cover.gif" alt="cover pic" height="500px" width="100%"/> </br>
+<!-- <img align="right" alt="GIF" src="" width="100%" height="200" /> </br> -->
 
 
 ## Hi, My name is Suman Giri

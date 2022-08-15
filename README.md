@@ -1,4 +1,4 @@
-<img src="cover.gif" alt="cover pic" height="500px" width="100%"/> </br>
+<img src="cover.gif" alt="cover pic" height="420px" width="100%"/> </br>
 <!-- <img align="right" alt="GIF" src="" width="100%" height="200" /> </br> -->
 
 

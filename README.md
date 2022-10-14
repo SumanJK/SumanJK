@@ -59,10 +59,7 @@ An aspiring Full-Stack Web Developer, who can't help himself from falling in lov
 
 <a href="http://www.github.com/SumanJK" ><img width="48%" src="https://github-readme-stats.vercel.app/api?username=SumanJK&show_icons=true&hide=&count_private=true&border_color=02D892&bg_color=0D1117&title_color=02D892&text_color=8B949E&icon_color=02D892&show_icons=true&ring=02D892" alt="SumanJK's GitHub stats" /></a> &nbsp; &nbsp; <a href="http://www.github.com/SumanJK"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SumanJK&background=1c1917&ring=02D892&fire=02D892&currStreakNum=ffffff&currStreakLabel=02D892&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&color=02D892&icon_color=02D892&border_color=02D892"  /></a>
 
-### Spotify Playing 🎧  </br>
-<a href="https://www.youtube.com/watch?v=nLnp0tpZ0ok"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/gs65vg6wu7ct2glmn4s3cycx9) </br>
  </br>
  ### Random Coding Jokes 👻 </br>
  <a href="https://www.youtube.com/watch?v=cdZZpaB2kDM"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>

@@ -3,7 +3,6 @@
 
 
 ## Hi, My name is Suman Giri
-click on the bar👇
 <a target="_blank" href="https://www.youtube.com/watch?v=Hd_ptbiPoXM&t=300s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 # Profile Visits 🫶 ![Visitor Count](https://profile-counter.glitch.me/{SumanJK}/count.svg) </br>
 

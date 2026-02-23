@@ -13,12 +13,10 @@ Full-Stack Web Developer
 
 An aspiring Full-Stack Web Developer, who can't help himself from falling in love with coding. </br>
 
-* 🌍  I'm based in Odisha, India
+* 🌍  Currently in Pune, Maharastra
 * ✉️  You can contact me at [girisuman289@gmail.com](mailto:girisuman289@gmail.com)
-* 🚀  I'm currently working on [SuperFam](https://superfam-by-sumangiri.netlify.app/)
-* 👨‍💻  I'm learning React and Redux
-* 🤝  I'm open to collaborate on Interesting Projects
-* 💫  Physics + Coding = 🤍
+* 🚀  I'm currently working on [PetVetHub](https://apps.apple.com/us/app/petvethub/id6743683156)
+* 👨‍💻  I'm learning Java
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

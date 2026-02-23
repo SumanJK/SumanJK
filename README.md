@@ -2,10 +2,7 @@
 <!-- <img align="right" alt="GIF" src="" width="100%" height="200" /> </br> -->
 
 
-## Hi, My name is Suman Giri
-<a target="_blank" href="https://www.youtube.com/watch?v=Hd_ptbiPoXM&t=300s"></a>
-
-<!-- # ------------------------ -->
+## Hi, Suman Giri this side,
 I build scalable AI-powered web & mobile applications
 ------------------------
 

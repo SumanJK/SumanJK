@@ -1,8 +1,9 @@
-<img src="cover.gif" alt="cover pic" height="420px" width="100%"/> </br>
+<!-- <img src="cover.gif" alt="cover pic" height="420px" width="100%"/> </br> -->
 <!-- <img align="right" alt="GIF" src="" width="100%" height="200" /> </br> -->
 
 
-### Hi, Suman Giri this side, I build scalable AI-powered web & mobile applications
+## Hi, Suman Giri this side.
+### I build scalable AI-powered web & mobile applications
 ------------------------
 
 * 🌍  Currently in Pune, Maharastra

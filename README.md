@@ -9,7 +9,6 @@
 * 🌍  Currently in Pune, Maharastra
 * ✉️  You can contact me at [girisuman289@gmail.com](mailto:girisuman289@gmail.com)
 * 🚀  I'm currently working on [PetVetHub](https://apps.apple.com/us/app/petvethub/id6743683156)
-* 👨‍💻  I'm learning Java
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
